@@ -7,7 +7,7 @@
 
 ## Ebout me
 
-*Hi! My name is Max Pozdniakov. For more than 10 years worked as
+Hi! My name is Max Pozdniakov. For more than 10 years worked as
 a translator and teacher of the Polish language.
 Shortly about myself:
 - I like to find interesting people, develop myself and help others. I
@@ -19,7 +19,7 @@ competitions.
 weightlifting.
 - A fan of learning foreign languages (my goal is 11 languages)
 - Rock music forever!
-- Cool Polish teacher ;) Join me =))*
+- Cool Polish teacher ;) Join me =))
 ## Experience
 
 ### Life Belarus (Turkcell Group) Support pecialist
