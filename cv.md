@@ -44,8 +44,8 @@ February 2024 - October 2024 (9 months)
 ## Навыки (Skills)
 
 - **Hard skills:** [HTML,CSS,JS,Linux SQL, Figma, Adobe Photoshop,Networks]
-- **Soft skills:** [Лидерство, переговоры, публичные выступления]
-- **Языки:** [Английский — C1 (Advanced), Немецкий — B2 (Upper‑Intermediate)]
+- **Soft skills:** [Leadership, Kindness, Sociability]
+- **Языки:** [Polish — C1 (Advanced), English — B1 (Pre‑Intermediate), Serbian - A2 (Elementary)]
 
 ## Сертификаты и курсы (Certifications & Courses)
 *CCNA Discovery: Networking for
