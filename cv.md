@@ -3,7 +3,7 @@
 ## Support Specialist/Web Developer/Designer 
 
 **Minsk** | **+375255477363** | **maxpozdniakow@gmail.com**  
-**[LinkedIn](https://www.linkedin.com/in/max-pozdniakov1/))** | **[GitHub (https://github.com/Pozdniakow))]**
+**[LinkedIn](https://www.linkedin.com/in/max-pozdniakov1/))** | **[GitHub (https://github.com/Pozdniakow)]**
 
 ## Ebout me
 
