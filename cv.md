@@ -27,11 +27,35 @@ weightlifting.
 
 **responsibilities:**
 - Support clients L1
+
 ### ООО "Фотопринт"
 Lead generation specialist
-February 2024 - October 2024 (9 months)
+February 2024 - October 2024 
+
 **responsibilities:**
 -Finding and attracting clients
+
+### Skyeng
+Telemarketing
+October 2023 - December 2023
+
+**responsibilities:**
+-Selling
+
+### TutorGroup|TutorOnline
+Teacher of Polish lang
+April 2021 - July 2022
+
+**responsibilities:**
+-Preparing students for interviews and language exams
+
+### Self-employed
+Teacher of Polish lang/Interpreter
+April 2012 - Current 
+
+**responsibilities:**
+-Preparing students for interviews and language exams
+
 
 
 ## Education
@@ -41,17 +65,17 @@ February 2024 - October 2024 (9 months)
 **Specialist, Polish teacher/Interpreter** | 2010-2015
 
 
-## Навыки (Skills)
+## Skills
 
 - **Hard skills:** [HTML,CSS,JS,Linux SQL, Figma, Adobe Photoshop,Networks]
-- **Soft skills:** [Leadership, Kindness, Sociability]
-- **Языки:** [Polish — C1 (Advanced), English — B1 (Pre‑Intermediate), Serbian - A2 (Elementary)]
+- **Soft skills:** [Leadership, Kindness, Sociability,Stress resistance]
+- **Languages:** [Polish — C1 (Advanced), English — B1 (Pre‑Intermediate), Serbian - A2 (Elementary)]
 
-## Сертификаты и курсы (Certifications & Courses)
+## Certifications & Courses
 *CCNA Discovery: Networking for
 Home and Small Business*
 *Foundations of Project Management*
-**Graphic Design Foundations: Ideas,
+*Graphic Design Foundations: Ideas,
 *Concepts, and Form*
 *Foundations of Cybersecurity*
 *Introduction to Graphic Design:
